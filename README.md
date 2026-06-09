@@ -3,7 +3,7 @@
 <img width="623" height="624" alt="Screenshot 2026-02-01 155942" src="https://github.com/user-attachments/assets/3b5ea46d-322b-4a7f-8e9f-a9a711d3066d" />
 
 
-
+---------------------------------Preview of the DashBoard------------------------------------
 # Spotify Predictive Analytics: Decoding Regional vs. Global Hit Drivers 
 
 ### Can Machine Learning predict whether a Spotify song becomes a hit because of *how it sounds*… or *who sings it*?
